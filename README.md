@@ -55,7 +55,7 @@ Fork the repository.
 3. Commit your changes (git commit -am 'Add new feature').
 4. Push to the branch (git push origin feature/add-new-feature).
 5. Create a new Pull Request.
-6. 
+ 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
