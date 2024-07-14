@@ -24,7 +24,7 @@ Ensure you have Flutter installed. For installation instructions, visit Flutter.
 
 # Installation
 Clone the repository:
-git clone https://github.com/your_username/tuneflow.git
+git clone https://github.com/DaisyMicheal/TuneFlow.git
 
 Navigate into the project directory:
 cd tuneflow
